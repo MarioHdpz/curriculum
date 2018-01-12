@@ -101,9 +101,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.9070707"
-     inkscape:cx="475.27996"
-     inkscape:cy="294.57526"
+     inkscape:zoom="0.67425131"
+     inkscape:cx="259.14535"
+     inkscape:cy="679.90677"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -148,7 +148,10 @@
        id="guide5480" /><sodipodi:guide
        position="54.134118,840.19117"
        orientation="1,0"
-       id="guide5500" /></sodipodi:namedview><g
+       id="guide5500" /><sodipodi:guide
+       position="726.24471,676.95445"
+       orientation="1,0"
+       id="guide5502" /></sodipodi:namedview><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Curriculum_esp_en"
@@ -542,9 +545,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.82066345px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1372"
        x="363.2872"
-       y="-273.06461"><tspan
+       y="-265.22403"><tspan
          x="363.2872 368.67661 372.09903 376.871 381.59888 384.53616 386.59137 390.83411 395.60611 397.72305 402.85669 406.27911 411.43036 416.66101 418.71625 423.48822 431.51501 433.63199 438.29813 443.44937 445.50458 449.74734 451.80255 457.04202"
-         y="-273.06461"
+         y="-265.22403"
          sodipodi:role="line"
          id="tspan1374">Creative Problem Solving</tspan></text>
 <text
@@ -552,9 +555,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1376"
        x="357.314"
-       y="-268.12036"><tspan
+       y="-260.13574"><tspan
          x="357.314 361.03784 364.8176 366.44547 372.80325 376.58301 380.10425 381.78104 386.79739 391.7439 396.13147 397.70346"
-         y="-268.12036"
+         y="-260.13574"
          sodipodi:role="line"
          id="tspan1378">Telmex HUB, </tspan></text>
 <text
@@ -562,9 +565,9 @@
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1380"
        x="401.05701"
-       y="-268.12036"><tspan
+       y="-260.13574"><tspan
          x="401.05701 404.76691 408.47678 412.18665"
-         y="-268.12036"
+         y="-260.13574"
          sodipodi:role="line"
          id="tspan1382">2016</tspan></text>
 <text
@@ -572,9 +575,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.82066345px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1384"
        x="363.14478"
-       y="-222.44055"><tspan
+       y="-214.59998"><tspan
          x="363.14478 367.87265 371.90369 374.71747 379.48944 382.91187 388.06314 393.30261 398.45389 406.48068 408.53589 413.26376 415.38074 418.04456 420.16153 424.8894 430.12006 435.35953 437.41473 440.35202 444.62122 446.73819 451.11325 453.16846 458.40793 463.1358 468.37527 472.39749"
-         y="-222.44055"
+         y="-214.59998"
          sodipodi:role="line"
          id="tspan1386">Esferonomía - Equity Finance</tspan></text>
 <text
@@ -582,9 +585,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1388"
        x="356.96396"
-       y="-216.98447"><tspan
+       y="-208.99977"><tspan
          x="356.96396 361.91046 367.03864 371.32141 377.49057 379.06253"
-         y="-216.98447"
+         y="-208.99977"
          sodipodi:role="line"
          id="tspan1390">UNAM, </tspan></text>
 <text
@@ -592,9 +595,9 @@
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1392"
        x="382.41611"
-       y="-216.98447"><tspan
+       y="-208.99977"><tspan
          x="382.41611 386.12598 389.83585 393.54575"
-         y="-216.98447"
+         y="-208.99977"
          sodipodi:role="line"
          id="tspan1394">2013</tspan></text>
 <g
@@ -737,9 +740,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.82066345px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1492"
        x="363.52365"
-       y="-196.79555"><tspan
+       y="-188.95497"><tspan
          x="363.52365 368.18979 370.245 378.27182 383.51129 385.5665 390.29437 394.31659 397.73901 402.89029 405.00723 409.73511 417.7619 422.99255 426.41498 431.18695 435.21802 439.94589 443.36832 445.42352 450.1514"
-         y="-196.79555"
+         y="-188.95497"
          sodipodi:role="line"
          id="tspan1494">Simulacro Empresarial</tspan></text>
 <text
@@ -747,9 +750,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1496"
        x="356.70547"
-       y="-191.28694"><tspan
+       y="-183.30225"><tspan
          x="356.70547 361.65198 366.78012 371.0629 377.23206 378.80405"
-         y="-191.28694"
+         y="-183.30225"
          sodipodi:role="line"
          id="tspan1498">UNAM, </tspan></text>
 <text
@@ -757,9 +760,9 @@
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1500"
        x="382.15762"
-       y="-191.28694"><tspan
+       y="-183.30225"><tspan
          x="382.15762 385.86749 389.57736 393.28723"
-         y="-191.28694"
+         y="-183.30225"
          sodipodi:role="line"
          id="tspan1502">2013</tspan></text>
 <text
@@ -767,9 +770,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.82066345px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1504"
        x="363.39154"
-       y="-247.72549"><tspan
+       y="-239.88492"><tspan
          x="363.39154"
-         y="-247.72549"
+         y="-239.88492"
          sodipodi:role="line"
          id="tspan1506">Lean Startup</tspan></text>
 <text
@@ -777,9 +780,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1508"
        x="357.2063"
-       y="-242.31532"><tspan
+       y="-234.33063"><tspan
          x="357.2063 360.90222 363.22873 366.97354 369.68436 372.01089 376.16092 380.30396 381.98074 388.1499 391.92966 395.4509 397.07877 400.26465 404.34482 405.91678"
-         y="-242.31532"
+         y="-234.33063"
          sodipodi:role="line"
          id="tspan1510">Startup México, </tspan></text>
 <text
@@ -787,9 +790,9 @@
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1512"
        x="409.27036"
-       y="-242.31532"><tspan
+       y="-234.33063"><tspan
          x="409.27036 412.98022 416.69012 420.39999"
-         y="-242.31532"
+         y="-234.33063"
          sodipodi:role="line"
          id="tspan1514">2015</tspan></text>
 <text
@@ -797,9 +800,9 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.82066345px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1592"
        x="363.20795"
-       y="-298.49539"><tspan
+       y="-290.65482"><tspan
          x="363.20795 369.54117 374.26904 378.29126 382.7457 387.47357 390.41086 395.65033 400.80161 406.04108 408.15805 412.85944 417.63144 419.68665 423.70886 428.48083 430.53607 432.65302 434.93756 440.17703 445.22247 450.46194 452.51715 455.45444 460.69391"
-         y="-298.49539"
+         y="-290.65482"
          sodipodi:role="line"
          id="tspan1594">Hackathon Telcel Inﬁnitum (Mentor)</tspan></text>
 <text
@@ -807,7 +810,7 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1596"
        x="331.17767"
-       y="-295.06522"><tspan
+       y="-287.0806"><tspan
          x="357.64285 361.36673 365.14645 366.77432 373.13214 376.91187 380.43311 382.10989 387.12625 392.07275 396.46033 398.03232"
          sodipodi:role="line"
          id="tspan1598">Telmex HUB, </tspan></text>
@@ -816,9 +819,9 @@
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658705px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1600"
        x="401.38589"
-       y="-295.06522"><tspan
+       y="-287.0806"><tspan
          x="401.38589 405.09576 408.80563 412.51553"
-         y="-295.06522"
+         y="-287.0806"
          sodipodi:role="line"
          id="tspan1602">2016</tspan></text>
 <g
@@ -1040,26 +1043,26 @@
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98658657px;font-family:'Open Sans';-inkscape-font-specification:OpenSans;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1596-2"
        x="357.4118"
-       y="-321.67889"><tspan
+       y="-313.69427"><tspan
          x="357.4118"
          sodipodi:role="line"
          id="tspan1598-2"
-         y="-321.67889">DevF Batch 15,</tspan></text>
+         y="-313.69427">DevF Batch 15,</tspan></text>
 <text
        transform="scale(0.99808388,-1.0019198)"
        style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.98658657px;font-family:'Open Sans Light';-inkscape-font-specification:OpenSansLight-Italic;writing-mode:lr-tb;fill:#656263;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text1600-8"
        x="408.38333"
-       y="-321.67889"><tspan
+       y="-313.69427"><tspan
          x="408.38333 412.09317 415.80295"
-         y="-321.67889"
+         y="-313.69427"
          sodipodi:role="line"
          id="tspan1602-9">2017</tspan></text>
 <flowRoot
        xml:space="preserve"
        id="flowRoot3818"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.8,0,0,-0.8,-1.6,792)"><flowRegion
+       transform="matrix(0.8,0,0,-0.8,-1.6,784)"><flowRegion
          id="flowRegion3820"><rect
            id="rect3822"
            width="159.66898"
@@ -1104,7 +1107,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:justify;text-anchor:start"
          id="flowPara4020">- Building website layout with PUG and SASS</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:justify;text-anchor:start"
-         id="flowPara4022">- Vainilla JS ecommerce implementation (Quotes, Carts, Products, Customers)</flowPara><flowPara
+         id="flowPara4022">- Vanilla JS ecommerce implementation (Quotes, Carts, Products, Customers)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:justify;text-anchor:start"
          id="flowPara4024">- Stripe integration at checkout. </flowPara><flowPara
          id="flowPara4018"
